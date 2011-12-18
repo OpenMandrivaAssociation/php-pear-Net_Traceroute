@@ -15,6 +15,7 @@ Requires(preun): php-pear
 Requires:	php-pear
 BuildArch:	noarch
 BuildRequires:	php-pear
+BuildRequires:	php-cli
 BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
