@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.21.3
-Release:	2
+Release:	3
 Summary:	Execute traceroute
 License:	PHP License
 Group:		Development/PHP
