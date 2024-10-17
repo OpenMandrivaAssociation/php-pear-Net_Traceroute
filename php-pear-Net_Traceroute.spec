@@ -8,7 +8,7 @@ Release:	3
 Summary:	Execute traceroute
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Net_Traceroute/
+URL:		https://pear.php.net/package/Net_Traceroute/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
